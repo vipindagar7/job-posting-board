@@ -38,7 +38,7 @@ This project is a job posting board built using the MERN stack (MongoDB, Express
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vipindagar7/job-posting-board.git
    cd job-posting-board
    ```
 2. **Install backend dependencies**:
